@@ -1,0 +1,2 @@
+(this["webpackJsonpwieldy-hook"]=this["webpackJsonpwieldy-hook"]||[]).push([[9],{501:function(e,t,a){"use strict";a.r(t);var n=a(0),l=a.n(n);a(22);t.default=function(){return l.a.createElement("div",null,l.a.createElement("h2",{className:"title gx-mb-4"},"CCM Dashboard"),l.a.createElement("div",{className:"gx-d-flex justify-content-center"},l.a.createElement("h4",null)))}}}]);
+//# sourceMappingURL=9.12de618d.chunk.js.map
